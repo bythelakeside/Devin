@@ -6,7 +6,7 @@ hide-settings: 1
 
 vless://2aacdb2a-8e4f-49ed-871a-44e737cfb43f@155.212.145.120:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloud.1c.ru&fp=qq&pbk=rKwPMw1L-xdPNJNXdkp5tZpkfvhPqwiKjrNyyKsuqwM&type=tcp#🇪🇺⭐ | Основной
 vless://6fc52984-1b75-45fa-963e-15826f45db97@againstvpn.ru:443?type=xhttp&security=none&encryption=none&host=againstvpn.ru&path=%2F&mode=auto&scMaxConcurrentPosts=10&scMaxEachPostBytes=1000000&scMinPostsIntervalMs=30#🇪🇺🚀 | Запасной
-vless://2aacdb2a-8e4f-49ed-871a-44e737cfb43f@5.175.178.79:443?encryption=none&security=tls&sni=takehost-ee-1.novacorium.com&fp=chrome&alpn=h2%2Chttp%2F1.1&type=xhttp&host=takehost-ee-1.novacorium.com&path=%2Fwp-json%2Fwp%2Fv2%2Fmedia%2Fe36288&mode=packet-up#🇪🇺🧠 | AI (Google, Sora)
+vless://afcaaceb-10ce-4187-8c80-0f456cc890ab@ingest.oneokgames.com:443?encryption=none&security=reality&sni=ingest.oneokgames.com&fp=firefox&pbk=aDNsk312UNfOEh0RiyGZdK6opt__mMyKBSglqFKFP38&sid=dbdbeaf4aa6e1a5c&type=grpc&serviceName=api.v2.ObjectService&mode=gun#🇪🇺🧠 | AI (Google, Sora)
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#🇷🇺💗 | YouTube без рекламы (Offline 🚫)
 
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#======================================
