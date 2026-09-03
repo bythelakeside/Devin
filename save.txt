@@ -90,3 +90,51 @@ vless://c85d01b5-7f62-496e-a2e6-16766b0d0747@185.141.227.178:10443?type=grpc&sec
 vless://c85d01b5-7f62-496e-a2e6-16766b0d0747@178.250.240.43:443?type=grpc&security=reality&flow=&fp=chrome&sni=ozon.ru&pbk=1m-dZsFmDcPLUCJ-b9Tin4Bmr_qRDq4QHMQSiMgcEwc&encryption=none&serviceName=grpc&mode=multi&sid=1234aa#🇷🇺#3 | LTE Обход БC
 vless://c85d01b5-7f62-496e-a2e6-16766b0d0747@185.141.227.178:443?type=grpc&security=reality&flow=&fp=firefox&sni=5post-gate.x5.ru&pbk=lX4yCWkxa9DbWKw_b4FmVzjEyoVYcUjqqx_zfOH0XG8&encryption=none&serviceName=grpc&mode=multi#🇷🇺#4 | LTE Обход БC
 vless://c85d01b5-7f62-496e-a2e6-16766b0d0747@185.141.227.178:11443?type=grpc&security=reality&flow=&fp=firefox&sni=dzen.ru&pbk=sH3SPRualLEffY4EfBl6vfy0EyD-hkEVYtBmuxR96Qs&encryption=none&serviceName=grpc&mode=multi#🇷🇺#5 | LTE Обход БC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#profile-title: Devin VPN ⚡ (THEIR)
+#profile-update-interval: 48
+#subscription-userinfo: upload=24117248; download=0; total=0; expire=1917820800
+#announce: base64:0JLQodCVINCh0JXQoNCS0JXQoNCQINCR0JXQl9Cb0JjQnNCY0KLQndCr0JUK0J3QtSDRgNCw0LHQvtGC0LDQtdGCPyDwn5SEINCe0LHQvdC+0LLQuCDQv9C+0LTQv9C40YHQutGDIHwg8J+VkyDQn9GA0L7QstC10YDRjCDQv9C40L3QsyDQuCDRgdC80LXQvdC4INGB0LXRgNCy0LXRgAoKT2ZmbGluZSDwn5qrIOKAlCDQodC10YDQstC10YDQsCDQstGL0LrQu9GO0YfQtdC90YsKT3ZlcmxvYWRlZCDwn5SoIOKAlCDQodC10YDQstC10YDQsCDQv9C10YDQtdCz0YDRg9C20LXQvdGLIHwg0JzQvtCz0YPRgiDRgNCw0LHQvtGC0LDRgtGMINC80LXQtNC70LXQvdC90L4=
+hide-settings: 1
+
+vless://8fc910bb-84ba-49f0-ac80-4d28fd950328@45.151.106.55:443?encryption=none&security=reality&sni=github.com&fp=random&pbk=hNaizRXZAcEwHZeBxYgPSJkbp8i8126khQNBlTRUDDY&sid=fde6ddddf858ffcf&type=grpc&serviceName=api&mode=gun#🇪🇺⭐ | Основной
+vless://6fc52984-1b75-45fa-963e-15826f45db97@againstvpn.ru:443?type=xhttp&security=none&encryption=none&host=againstvpn.ru&path=%2F&mode=auto&scMaxConcurrentPosts=10&scMaxEachPostBytes=1000000&scMinPostsIntervalMs=30#🇪🇺🚀 | Запасной
+vless://afcaaceb-10ce-4187-8c80-0f456cc890ab@ingest.oneokgames.com:443?encryption=none&security=reality&sni=ingest.oneokgames.com&fp=firefox&pbk=aDNsk312UNfOEh0RiyGZdK6opt__mMyKBSglqFKFP38&sid=dbdbeaf4aa6e1a5c&type=grpc&serviceName=api.v2.ObjectService&mode=gun#🇪🇺🧠 | AI (Google, Sora)
+vless://8fc910bb-84ba-49f0-ac80-4d28fd950328@ru.tech.nadolgo.xyz:443?encryption=none&security=reality&sni=github.com&fp=firefox&pbk=hNaizRXZAcEwHZeBxYgPSJkbp8i8126khQNBlTRUDDY&sid=fde6ddddf858ffcf&type=grpc&serviceName=api&mode=gun#🇷🇺💗 | YouTube без рекламы
+
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#======================================
+
+vless://82036332-2163-43c9-b215-6a853d803790@uk-1.secureclouds.top:543?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&sni=uk-1.secureclouds.top&pbk=31Xx3qWuWLvWfh-v2z7MZg1zVykVBkpDRoTFAnvBO1Q&encryption=none&sid=a1b2c3d4#🇬🇧United Kingdom (Offline 🚫)
+hysteria://us-1.someadminpanel.ru:443?auth=2aacdb2a-8e4f-49ed-871a-44e737cfb43f&peer=us-1.someadminpanel.ru&insecure=0&upmbps=100&downmbps=100&alpn=h3#🇺🇸United States (Offline 🚫)
+vless://8fc910bb-84ba-49f0-ac80-4d28fd950328@45.151.106.55:443?encryption=none&security=reality&sni=github.com&fp=random&pbk=hNaizRXZAcEwHZeBxYgPSJkbp8i8126khQNBlTRUDDY&sid=fde6ddddf858ffcf&type=grpc&serviceName=api&mode=gun#🇳🇱Netherlands
+vless://6fade931-da8f-4b3c-8804-b2f7b4703242@sg.oaklandjoseph.top:7443?encryption=none&security=tls&sni=sg.oaklandjoseph.top&fp=qq&type=xhttp&host=sg.oaklandjoseph.top&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2F&mode=auto#🇸🇬Singapore (Offline 🚫)
+vless://8fc910bb-84ba-49f0-ac80-4d28fd950328@178.215.236.18:433?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=firefox&pbk=hNaizRXZAcEwHZeBxYgPSJkbp8i8126khQNBlTRUDDY&sid=fde6ddddf858ffcf&type=tcp#🇩🇪Germany
+vless://8fc910bb-84ba-49f0-ac80-4d28fd950328@31.76.30.78:2506?encryption=none&security=reality&sni=github.com&fp=firefox&pbk=hNaizRXZAcEwHZeBxYgPSJkbp8i8126khQNBlTRUDDY&sid=fde6ddddf858ffcf&type=grpc&serviceName=api&mode=gun#🇫🇮Finland
