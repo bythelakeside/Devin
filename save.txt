@@ -105,7 +105,7 @@ vless://c85d01b5-7f62-496e-a2e6-16766b0d0747@185.141.227.178:11443?type=grpc&sec
 
 
 
-
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#🚫 СЕРВЕРА ВРЕМЕННО ОТКЛЮЧЕНЫ
 
 
 
